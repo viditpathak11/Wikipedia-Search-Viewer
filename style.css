@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin: 0 auto;
+    }
+
+h1{
+  font-family: 'IM Fell English SC', serif;
+}
+#searchTerm{
+  margin-bottom: 10px;
+}
